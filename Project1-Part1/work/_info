@@ -1,0 +1,1437 @@
+m255
+K4
+z2
+Z0 !s12c _opt2
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt1
+R1
+R0
+R1
+R0
+R1
+Z3 !s12c _opt
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R3
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R0
+R1
+R0
+R1
+R3
+R1
+R3
+R1
+R2
+R1
+R3
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R3
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R3
+R1
+!s11e vcom 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 d/home/cihem/Desktop
+T_opt
+!s110 1727491279
+Vf4B]>mmaIeW:=od7;AblY2
+04 16 5 work tb_mipsdatapath1 mixed 1
+=1-6805ca47c761-66f76ccf-229fa-540a
+R1
+Z5 !s12f OEM100
+Z6 !s12b OEM100
+Z7 !s124 OEM100
+Z8 !s135 nogc
+Z9 o-quiet -auto_acc_if_foreign -work work +acc
+Z10 tCvgOpt 0
+n@_opt
+Z11 OL;O;2024.2;79
+R4
+T_opt1
+!s110 1727583088
+V6F6PVjI;ViPLKQ:iJHWWC3
+Z12 04 16 5 work tb_mipsdatapath2 mixed 1
+=1-6805ca47c690-66f8d370-51f98-a9f1
+R1
+R5
+R6
+R7
+R8
+o-quiet -auto_acc_if_foreign -work work
+R10
+n@_opt1
+R11
+R4
+T_opt2
+!s110 1727585295
+VbV]l0c<nDJh^N]5XJAlFd1
+R12
+=1-6805ca47c690-66f8dc0f-73b8-b586
+R1
+R5
+R6
+R7
+R8
+R9
+R10
+n@_opt2
+R11
+R4
+Eadder_n
+Z13 w1727387540
+Z14 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z15 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 462
+Z16 d/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1
+Z17 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/Adder_N.vhd
+Z18 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/Adder_N.vhd
+l0
+Z19 L20 1
+VTdDhTo:YXJkE>FPA=hS=Q3
+!s100 ;NBg<m[d`67i9kXOU8M>Q2
+Z20 OL;C;2024.2;79
+33
+Z21 !s110 1728229381
+!i10b 1
+Z22 !s108 1728229381.000000
+Z23 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/Adder_N.vhd|
+Z24 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/Adder_N.vhd|
+!i113 0
+Z25 o-work work -2008 -explicit
+Z26 tExplicit 1 CvgOpt 0
+Astructural
+R14
+R15
+DEx4 work 7 adder_n 0 22 TdDhTo:YXJkE>FPA=hS=Q3
+!i122 462
+l41
+L29 26
+VUEN3I<ejj8hNXg_Tl=eFj2
+!s100 DXCZFhDh^QlobbX`76aQ30
+R20
+33
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 0
+R25
+R26
+Eadderstructural
+Z27 w1725306863
+R14
+R15
+!i122 463
+R16
+Z28 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderStructural.vhd
+Z29 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderStructural.vhd
+l0
+Z30 L21 1
+Vk]75GcBS8YI2V1?86<Pdc1
+!s100 JTQ@_S]<cMblOI>UY7_@V1
+R20
+33
+R21
+!i10b 1
+R22
+Z31 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderStructural.vhd|
+Z32 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderStructural.vhd|
+!i113 0
+R25
+R26
+Astructure
+R14
+R15
+DEx4 work 15 adderstructural 0 22 k]75GcBS8YI2V1?86<Pdc1
+!i122 463
+l52
+L29 49
+VclgW`Cm0Tcf4zMmI>39JU1
+!s100 SKP?gCG:JzhA325CdTlKY0
+R20
+33
+R21
+!i10b 1
+R22
+R31
+R32
+!i113 0
+R25
+R26
+Eadderwithmux
+Z33 w1727491249
+R14
+R15
+!i122 464
+R16
+Z34 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderWithMux.vhd
+Z35 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderWithMux.vhd
+l0
+R30
+VCKYRESPTUoEhZHT_k?i?k1
+!s100 A[`ZzZQn6`L2HDM?6MIj10
+R20
+33
+Z36 !s110 1728229382
+!i10b 1
+R22
+Z37 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderWithMux.vhd|
+Z38 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/AdderWithMux.vhd|
+!i113 0
+R25
+R26
+Astructure
+R14
+R15
+DEx4 work 12 adderwithmux 0 22 CKYRESPTUoEhZHT_k?i?k1
+!i122 464
+l54
+L33 39
+VaA1klNz=8F]]FH3?4aBQH3
+!s100 SnC@43olO>ZUikK>XPihR1
+R20
+33
+R36
+!i10b 1
+R22
+R37
+R38
+!i113 0
+R25
+R26
+Eaddsub_n
+Z39 w1727387536
+R14
+R15
+!i122 465
+R16
+Z40 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/addSub.vhd
+Z41 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/addSub.vhd
+l0
+R19
+VE?BONb4HFQTFQoV2cnD6F0
+!s100 4zeVk^a0NYGh^mcYIoURJ1
+R20
+33
+R36
+!i10b 1
+Z42 !s108 1728229382.000000
+Z43 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/addSub.vhd|
+Z44 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/addSub.vhd|
+!i113 0
+R25
+R26
+Astructural
+R14
+R15
+DEx4 work 8 addsub_n 0 22 E?BONb4HFQTFQoV2cnD6F0
+!i122 465
+l57
+L29 53
+VCgQh21bHcz]PcDK5Pi?<z2
+!s100 EX@fzzE=N;1XeIKQKUNIB1
+R20
+33
+R36
+!i10b 1
+R42
+R43
+R44
+!i113 0
+R25
+R26
+Eandg2
+Z45 w1575899276
+R14
+R15
+!i122 466
+R16
+Z46 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/andg2.vhd
+Z47 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/andg2.vhd
+l0
+Z48 L23 1
+V14;Kgg<l^NcUXfn4K3W9P2
+!s100 YT?bGzEmcFo:DlnoC^B4_0
+R20
+33
+R36
+!i10b 1
+R42
+Z49 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/andg2.vhd|
+Z50 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/andg2.vhd|
+!i113 0
+R25
+R26
+Adataflow
+R14
+R15
+DEx4 work 5 andg2 0 22 14;Kgg<l^NcUXfn4K3W9P2
+!i122 466
+l32
+Z51 L31 6
+V9c5LK:0kmmhln[C60E=TS2
+!s100 I`@Z@UBObS]<7m8bPgKUS1
+R20
+33
+R36
+!i10b 1
+R42
+R49
+R50
+!i113 0
+R25
+R26
+Ebarrelshifter
+Z52 w1728254261
+R14
+R15
+!i122 491
+R16
+Z53 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/barrelShifter.vhd
+Z54 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/barrelShifter.vhd
+l0
+Z55 L19 1
+VWeSYkHg@=G?P[RjDj8aI72
+!s100 7Uk6OI8XP38RHzXKX4O`H1
+R20
+33
+Z56 !s110 1728254268
+!i10b 1
+Z57 !s108 1728254268.000000
+Z58 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/barrelShifter.vhd|
+Z59 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/barrelShifter.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 13 barrelshifter 0 22 WeSYkHg@=G?P[RjDj8aI72
+!i122 491
+l72
+L30 225
+VME`8TNVC@5lY2hcXenKfI2
+!s100 >FfkDUHNYgnRI<QJk[;4a2
+R20
+33
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 0
+R25
+R26
+Ebitextender
+Z60 w1727490206
+R14
+R15
+!i122 467
+R16
+Z61 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/bitExtender.vhd
+Z62 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/bitExtender.vhd
+l0
+R19
+VMEYibzAjnRUUdF:ICIZ`e2
+!s100 Dm>k4D6Z4O2o0O5lcchj<0
+R20
+33
+R36
+!i10b 1
+R42
+Z63 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/bitExtender.vhd|
+Z64 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/bitExtender.vhd|
+!i113 0
+R25
+R26
+Adataflow
+R14
+R15
+DEx4 work 11 bitextender 0 22 MEYibzAjnRUUdF:ICIZ`e2
+!i122 467
+l32
+L28 25
+VL7:Z=P7enhPPg2L4LmniO2
+!s100 NWBF`?fd8i6e95BL5B=LR0
+R20
+33
+R36
+!i10b 1
+R42
+R63
+R64
+!i113 0
+R25
+R26
+Edecoder
+Z65 w1726671137
+Z66 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R14
+R15
+!i122 468
+R16
+Z67 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/decoder.vhd
+Z68 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/decoder.vhd
+l0
+R30
+VooGJHMhob[VNMU?Az7oaC1
+!s100 Hda^]Y@km;3ARcEfYGCo90
+R20
+33
+R36
+!i10b 1
+R42
+Z69 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/decoder.vhd|
+Z70 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/decoder.vhd|
+!i113 0
+R25
+R26
+Astructure
+R66
+R14
+R15
+DEx4 work 7 decoder 0 22 ooGJHMhob[VNMU?Az7oaC1
+!i122 468
+l35
+L31 50
+V:YkbkU9F<m_cV>WF8GB:a3
+!s100 j62j7fRS=g]_Xg=J@K1n>1
+R20
+33
+R36
+!i10b 1
+R42
+R69
+R70
+!i113 0
+R25
+R26
+Edffg
+Z71 w1577987095
+R14
+R15
+!i122 469
+R16
+Z72 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/dffg.vhd
+Z73 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/dffg.vhd
+l0
+R48
+VU4Z@1hOmhj;RN;m=o`PE50
+!s100 T4gcXQGMCgKJbn8XhBM;b0
+R20
+33
+R36
+!i10b 1
+R42
+Z74 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/dffg.vhd|
+Z75 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/dffg.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 4 dffg 0 22 U4Z@1hOmhj;RN;m=o`PE50
+!i122 469
+l37
+L33 29
+VcGk`70hTzUBQXe@mOZQMz3
+!s100 iOdlTUid@@]UimFK_53^C1
+R20
+33
+R36
+!i10b 1
+R42
+R74
+R75
+!i113 0
+R25
+R26
+Einvg
+R45
+R14
+R15
+!i122 470
+R16
+Z76 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/invg.vhd
+Z77 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/invg.vhd
+l0
+R48
+VV5ABnOY1@C84YczbbMJm43
+!s100 _XK?_^5z0Rm1<k12?;5R?2
+R20
+33
+R36
+!i10b 1
+R42
+Z78 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/invg.vhd|
+Z79 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/invg.vhd|
+!i113 0
+R25
+R26
+Adataflow
+R14
+R15
+DEx4 work 4 invg 0 22 V5ABnOY1@C84YczbbMJm43
+!i122 470
+l31
+L30 6
+V?c8XNF03kj`aK82C8lK7Y1
+!s100 bk7I76o8e1LURdoZEQb8H0
+R20
+33
+R36
+!i10b 1
+R42
+R78
+R79
+!i113 0
+R25
+R26
+Emem
+Z80 w1575899277
+R66
+R14
+R15
+!i122 471
+R16
+Z81 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mem.vhd
+Z82 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mem.vhd
+l0
+L8 1
+V_0bz9Xd43MLgPRSR5AT?g2
+!s100 fRlcaiTJZJ1H;nZh;8=LI3
+R20
+33
+R36
+!i10b 1
+R42
+Z83 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mem.vhd|
+Z84 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mem.vhd|
+!i113 0
+R25
+R26
+Artl
+R66
+R14
+R15
+DEx4 work 3 mem 0 22 _0bz9Xd43MLgPRSR5AT?g2
+!i122 471
+l37
+L27 24
+VP<hJO`eNK:GK56cZVLj@g0
+!s100 OI8_3><BhDkT3l3n8`OXd3
+R20
+33
+R36
+!i10b 1
+R42
+R83
+R84
+!i113 0
+R25
+R26
+Emipsdatapath1
+Z85 w1727491125
+R14
+R15
+!i122 472
+R16
+Z86 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath1.vhd
+Z87 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath1.vhd
+l0
+R30
+VXaJhL>d>][XVURk]k=gVG2
+!s100 =oKN`dm5mWEmQc4jTI;cS3
+R20
+33
+R36
+!i10b 1
+R42
+Z88 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath1.vhd|
+Z89 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath1.vhd|
+!i113 0
+R25
+R26
+Astructure
+R14
+R15
+DEx4 work 13 mipsdatapath1 0 22 XaJhL>d>][XVURk]k=gVG2
+!i122 472
+l68
+L35 59
+VH>9UKT2]9G5`4>`X@HGUB0
+!s100 h?Wid:O77f]:l@ZcDfkcU0
+R20
+33
+R36
+!i10b 1
+R42
+R88
+R89
+!i113 0
+R25
+R26
+Emipsdatapath2
+Z90 w1727584955
+R14
+R15
+!i122 473
+R16
+Z91 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath2.vhd
+Z92 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath2.vhd
+l0
+R30
+VaTH3;fzGMH9TaPLllC?Rd2
+!s100 GXJDSfIfPoZl`_JROCENX2
+R20
+33
+R36
+!i10b 1
+R42
+Z93 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath2.vhd|
+Z94 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/MIPSDataPath2.vhd|
+!i113 0
+R25
+R26
+Astructure
+R14
+R15
+DEx4 work 13 mipsdatapath2 0 22 aTH3;fzGMH9TaPLllC?Rd2
+!i122 473
+l101
+L37 114
+VAmjXggD8nQmI=QADVC5TD3
+!s100 5HZ`153nYjf4S0;o9EhXL3
+R20
+33
+R36
+!i10b 1
+R42
+R93
+R94
+!i113 0
+R25
+R26
+Emux2t1
+Z95 w1725229991
+R14
+R15
+!i122 474
+R16
+Z96 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1.vhd
+Z97 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1.vhd
+l0
+R30
+VY?iGmZeAB]k6HCbf[<e=o3
+!s100 1_IWCU1]aNaM8Ii?Ql8G61
+R20
+33
+R36
+!i10b 1
+R42
+Z98 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1.vhd|
+Z99 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1.vhd|
+!i113 0
+R25
+R26
+Astructure
+R14
+R15
+DEx4 work 6 mux2t1 0 22 Y?iGmZeAB]k6HCbf[<e=o3
+!i122 474
+l53
+L30 45
+Vj<go;9DK_WWECaBD`ODQP2
+!s100 ggi>_QeT2e:Kcfj_JRTi]2
+R20
+33
+R36
+!i10b 1
+R42
+R98
+R99
+!i113 0
+R25
+R26
+Emux2t1_n
+Z100 w1727387538
+R14
+R15
+!i122 475
+R16
+Z101 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1_N.vhd
+Z102 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1_N.vhd
+l0
+R30
+VGKAGGZo@HoE^@ac=ahMbD3
+!s100 BKZeKCAB2i6lge3>7TA3d3
+R20
+33
+R36
+!i10b 1
+R42
+Z103 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1_N.vhd|
+Z104 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux2t1_N.vhd|
+!i113 0
+R25
+R26
+Astructural
+R14
+R15
+DEx4 work 8 mux2t1_n 0 22 GKAGGZo@HoE^@ac=ahMbD3
+!i122 475
+l39
+L30 21
+VD8JT;V151T[9DO=XS34I]1
+!s100 W>5MMWO2LBg`K8[P>h>Ye1
+R20
+33
+R36
+!i10b 1
+R42
+R103
+R104
+!i113 0
+R25
+R26
+Emux32t1
+Z105 w1727218356
+R14
+R15
+!i122 476
+R16
+Z106 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux32_1.vhd
+Z107 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux32_1.vhd
+l0
+R55
+VzTH:ziPiFz]9@C>N0]bFK0
+!s100 4Kh8kLo`onT^A;Ka8=?@M2
+R20
+33
+R36
+!i10b 1
+R42
+Z108 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux32_1.vhd|
+Z109 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/mux32_1.vhd|
+!i113 0
+R25
+R26
+Astructure
+R14
+R15
+DEx4 work 7 mux32t1 0 22 zTH:ziPiFz]9@C>N0]bFK0
+!i122 476
+l61
+L59 38
+VSRm5;^I926NQ_1a>fIV_52
+!s100 3[VI:LTWP33ad^:OT=^?`0
+R20
+33
+R36
+!i10b 1
+R42
+R108
+R109
+!i113 0
+R25
+R26
+Eonescomp_n
+Z110 w1725299004
+R14
+R15
+!i122 477
+R16
+Z111 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/OnesComplement.vhd
+Z112 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/OnesComplement.vhd
+l0
+R30
+V]k;NY8W=foMcUN3Bc449f0
+!s100 2miT=6dJV1iSU5GD8S4Km3
+R20
+33
+R36
+!i10b 1
+R42
+Z113 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/OnesComplement.vhd|
+Z114 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/OnesComplement.vhd|
+!i113 0
+R25
+R26
+Astructure
+R14
+R15
+DEx4 work 10 onescomp_n 0 22 ]k;NY8W=foMcUN3Bc449f0
+!i122 477
+l35
+L28 13
+VdomV<_ZGBb:3P:79TYI6I1
+!s100 Wc5hgeQDI=]meN[]Tezn80
+R20
+33
+R36
+!i10b 1
+R42
+R113
+R114
+!i113 0
+R25
+R26
+Eorg2
+R45
+R14
+R15
+!i122 478
+R16
+Z115 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/org2.vhd
+Z116 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/org2.vhd
+l0
+R48
+Vmi<eg7K]IQ]UHDeXadIRl2
+!s100 bGQ1F9eW^Q17OoL9h4g7z2
+R20
+33
+R36
+!i10b 1
+R42
+Z117 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/org2.vhd|
+Z118 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/org2.vhd|
+!i113 0
+R25
+R26
+Adataflow
+R14
+R15
+DEx4 work 4 org2 0 22 mi<eg7K]IQ]UHDeXadIRl2
+!i122 478
+l32
+R51
+VYPSCdk<=TCTdM`giL9TZ10
+!s100 h5_AzR3TdRA0a_K=dQ>mI2
+R20
+33
+R36
+!i10b 1
+R42
+R117
+R118
+!i113 0
+R25
+R26
+Eregister_file
+Z119 w1727400294
+R14
+R15
+!i122 479
+R16
+Z120 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_file.vhd
+Z121 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_file.vhd
+l0
+R55
+VkfAg4>5V>AC@zAAT`]fR50
+!s100 lG1I7Pz88P@ERGe:OTB[E0
+R20
+33
+R36
+!i10b 1
+R42
+Z122 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_file.vhd|
+Z123 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_file.vhd|
+!i113 0
+R25
+R26
+Astructural
+R14
+R15
+DEx4 work 13 register_file 0 22 kfAg4>5V>AC@zAAT`]fR50
+!i122 479
+l99
+L33 167
+V1[7OXGXIH4L^4SCL06eBh1
+!s100 Bz>?^?`Gm^Qf8jT]9G^f@1
+R20
+33
+R36
+!i10b 1
+R42
+R122
+R123
+!i113 0
+R25
+R26
+Eregister_n
+Z124 w1726669728
+R14
+R15
+!i122 480
+R16
+Z125 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_n.vhd
+Z126 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_n.vhd
+l0
+R55
+V:K>3ITDFkiZ=3KX8Rkhib3
+!s100 caEaSmHb979m@Hb=[FOii3
+R20
+33
+R36
+!i10b 1
+R42
+Z127 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_n.vhd|
+Z128 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/register_n.vhd|
+!i113 0
+R25
+R26
+Astructural
+R14
+R15
+DEx4 work 10 register_n 0 22 :K>3ITDFkiZ=3KX8Rkhib3
+!i122 480
+l42
+L30 24
+VE9im;g5KKIFTKT;[eCDj?0
+!s100 6PBQ>_7RTQHdeea451MWN2
+R20
+33
+R36
+!i10b 1
+R42
+R127
+R128
+!i113 0
+R25
+R26
+Etb_barrelshifter
+Z129 w1728254316
+R66
+Z130 DPx4 ieee 16 std_logic_textio 0 22 8]8<fKiYoHe;_IDO3kmNH2
+R14
+R15
+!i122 492
+R16
+Z131 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_barrelShifter.vhd
+Z132 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_barrelShifter.vhd
+l0
+R48
+Vb4>Z;V7TOC;C;<G4W2n]22
+!s100 DI[d^Y>`j]NPUW45Md7fO1
+R20
+33
+Z133 !s110 1728254325
+!i10b 1
+Z134 !s108 1728254324.000000
+Z135 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_barrelShifter.vhd|
+!s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_barrelShifter.vhd|
+!i113 0
+R25
+R26
+Amixed
+R66
+R130
+R14
+R15
+DEx4 work 16 tb_barrelshifter 0 22 b4>Z;V7TOC;C;<G4W2n]22
+!i122 492
+l48
+L27 85
+VG5KMnbX<@nGW9^g>BA:4n2
+!s100 ^h]WA2gU_nEge`oJN=g[N2
+R20
+33
+R133
+!i10b 1
+R134
+R135
+Z136 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_barrelShifter.vhd|
+!i113 0
+R25
+R26
+Etb_bitextender
+Z137 w1727490275
+R14
+R15
+!i122 481
+R16
+Z138 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_bitExtender.vhd
+Z139 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_bitExtender.vhd
+l0
+Z140 L18 1
+V7en@k[:X9_cSc>TB`KnT20
+!s100 NfCic3_50_a_W4S:Wajmd2
+R20
+33
+R36
+!i10b 1
+R42
+Z141 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_bitExtender.vhd|
+Z142 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_bitExtender.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 14 tb_bitextender 0 22 7en@k[:X9_cSc>TB`KnT20
+!i122 481
+l43
+L22 66
+VlNgE8;MGfOhNM4GJLGX`m2
+!s100 `dCNJ?WKPoSQzNM>c3ii^0
+R20
+33
+R36
+!i10b 1
+R42
+R141
+R142
+!i113 0
+R25
+R26
+Etb_decoder
+Z143 w1726672323
+R14
+R15
+!i122 482
+R16
+Z144 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_decoder.vhd
+Z145 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_decoder.vhd
+l0
+R55
+VK=1R_BY97ZL>cl3N7FJXR3
+!s100 [zDU?>G]GE?XE18?ERYmj2
+R20
+33
+R36
+!i10b 1
+R42
+Z146 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_decoder.vhd|
+Z147 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_decoder.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 10 tb_decoder 0 22 K=1R_BY97ZL>cl3N7FJXR3
+!i122 482
+l43
+L23 69
+V=dN2Ag0lc?b5h>=A[_eKa1
+!s100 [PB9[4`S^LNdaz`Xl?zLc3
+R20
+33
+R36
+!i10b 1
+R42
+R146
+R147
+!i113 0
+R25
+R26
+Etb_dffg
+Z148 w1580338086
+R14
+R15
+!i122 483
+R16
+Z149 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dffg.vhd
+Z150 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dffg.vhd
+l0
+R48
+Vb?c`NJ6j@7V^f1]cl5I@c2
+!s100 _@1Y`b4>C@@3dFKeCkFbz1
+R20
+33
+R36
+!i10b 1
+R42
+Z151 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dffg.vhd|
+Z152 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dffg.vhd|
+!i113 0
+R25
+R26
+Abehavior
+R14
+R15
+DEx4 work 7 tb_dffg 0 22 b?c`NJ6j@7V^f1]cl5I@c2
+!i122 483
+l45
+L27 75
+VR?Uh^AN?MmeLNFMUYjoMe2
+!s100 McQ;1U@Ti8TCBh>42ldW82
+R20
+33
+R36
+!i10b 1
+R42
+R151
+R152
+!i113 0
+R25
+R26
+Etb_dmem
+Z153 w1727494267
+R14
+R15
+!i122 484
+R16
+Z154 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dmem.vhd
+Z155 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dmem.vhd
+l0
+R140
+Vha]E?5o3fEbAEo9amI>840
+!s100 CSo@l2INJCWo2;8FUnU963
+R20
+33
+R36
+!i10b 1
+R42
+Z156 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dmem.vhd|
+Z157 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_dmem.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 7 tb_dmem 0 22 ha]E?5o3fEbAEo9amI>840
+!i122 484
+l53
+L22 232
+Vh2LHdF_mB>YM[MZ8ceAjK2
+!s100 mJb6jenai`NX`c5niYiC=0
+R20
+33
+R36
+!i10b 1
+R42
+R156
+R157
+!i113 0
+R25
+R26
+Etb_mipsdatapath1
+Z158 w1727491117
+R14
+R15
+!i122 485
+R16
+Z159 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath1.vhd
+Z160 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath1.vhd
+l0
+Z161 L16 1
+VIOfP`D7=1ljH7DhZbG6AZ0
+!s100 WU[hV^KhofW3Hd8[Q<8cb1
+R20
+33
+Z162 !s110 1728229383
+!i10b 1
+R42
+Z163 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath1.vhd|
+Z164 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath1.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 16 tb_mipsdatapath1 0 22 IOfP`D7=1ljH7DhZbG6AZ0
+!i122 485
+l50
+L20 214
+V^Snjb3hH>`oL?CJ5lIRW]1
+!s100 Z9WBaN6LNQVjeVW;>>F1H3
+R20
+33
+R162
+!i10b 1
+R42
+R163
+R164
+!i113 0
+R25
+R26
+Etb_mipsdatapath2
+Z165 w1727585286
+R14
+R15
+!i122 486
+R16
+Z166 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath2.vhd
+Z167 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath2.vhd
+l0
+R161
+VA@fa=<HXk3IY_^zZ<OlQ61
+!s100 8CfC5QVWL1@cU3hIUG2k:0
+R20
+33
+R162
+!i10b 1
+Z168 !s108 1728229383.000000
+Z169 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath2.vhd|
+Z170 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_MIPSDataPath2.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 16 tb_mipsdatapath2 0 22 A@fa=<HXk3IY_^zZ<OlQ61
+!i122 486
+l54
+L20 322
+V2T?;?Sz<P5aThQ:ie46lA1
+!s100 G@83XlW5KbHi5RPaP[7DG3
+R20
+33
+R162
+!i10b 1
+R168
+R169
+R170
+!i113 0
+R25
+R26
+Etb_mux32_1
+Z171 w1727327172
+R14
+R15
+!i122 487
+R16
+Z172 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_mux32_1.vhd
+Z173 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_mux32_1.vhd
+l0
+R55
+VTlgLEZfdm:6FoZ[M>2daG0
+!s100 [_6YUn8kABB[?8U_OTG^E0
+R20
+33
+R162
+!i10b 1
+R168
+Z174 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_mux32_1.vhd|
+Z175 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_mux32_1.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 10 tb_mux32_1 0 22 TlgLEZfdm:6FoZ[M>2daG0
+!i122 487
+l104
+L23 193
+VkmPi?N0Q[]gl];FlAPiEn0
+!s100 MZ9zMz`E_S2ckm]?AAH7N3
+R20
+33
+R162
+!i10b 1
+R168
+R174
+R175
+!i113 0
+R25
+R26
+Etb_register_file
+Z176 w1727387535
+R14
+R15
+!i122 488
+R16
+Z177 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_file.vhd
+Z178 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_file.vhd
+l0
+R161
+VJKIoa9i77Q1]4_Ta[oYhd0
+!s100 8i47?WZ0nYiS4^>HNi]CI1
+R20
+33
+R162
+!i10b 1
+R168
+Z179 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_file.vhd|
+Z180 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_file.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 16 tb_register_file 0 22 JKIoa9i77Q1]4_Ta[oYhd0
+!i122 488
+l50
+L20 328
+VTO=VbgG18a1dNJ8NWJBin3
+!s100 SGkaP><BPef2e=]dSKIR:1
+R20
+33
+R162
+!i10b 1
+R168
+R179
+R180
+!i113 0
+R25
+R26
+Etb_register_n
+Z181 w1726669799
+R14
+R15
+!i122 489
+R16
+Z182 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_n.vhd
+Z183 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_n.vhd
+l0
+R140
+VS7G:f=9kXL[]N>C4W=?lS3
+!s100 d5joh7JebfbAVfJD_dIn;0
+R20
+33
+R162
+!i10b 1
+R168
+Z184 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_n.vhd|
+Z185 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/tb_register_n.vhd|
+!i113 0
+R25
+R26
+Amixed
+R14
+R15
+DEx4 work 13 tb_register_n 0 22 S7G:f=9kXL[]N>C4W=?lS3
+!i122 489
+l44
+L23 78
+Vf[oVma9T3;[[Dd@`FPkXU0
+!s100 BL1>G;M2nm2TF1Qd0Mi>:3
+R20
+33
+R162
+!i10b 1
+R168
+R184
+R185
+!i113 0
+R25
+R26
+Exorg2
+R45
+R14
+R15
+!i122 490
+R16
+Z186 8/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/xorg2.vhd
+Z187 F/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/xorg2.vhd
+l0
+R48
+VOZPm5jBoVdPDb7[3zWzZD2
+!s100 [hI[mXFH4_j16U;>U1Lfn2
+R20
+33
+R162
+!i10b 1
+R168
+Z188 !s90 -reportprogress|300|-work|work|-2008|-explicit|-vopt|-stats=none|/home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/xorg2.vhd|
+Z189 !s107 /home/cihem/Desktop/CPRE381/Project1-Part1/Project1-Part1/xorg2.vhd|
+!i113 0
+R25
+R26
+Adataflow
+R14
+R15
+DEx4 work 5 xorg2 0 22 OZPm5jBoVdPDb7[3zWzZD2
+!i122 490
+l32
+R51
+V7_ZYiRRQelNmCooYeK?5e0
+!s100 Z6[FAPS4fBLB`F?OO<AY72
+R20
+33
+R162
+!i10b 1
+R168
+R188
+R189
+!i113 0
+R25
+R26
